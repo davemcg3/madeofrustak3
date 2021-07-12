@@ -1,0 +1,9 @@
+[package]
+name = "madeofrustak3"
+version = "0.1.0"
+authors = ["David McGrath <dave.mcgrath3@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+strum = "0.21"
+strum_macros = "0.21"
